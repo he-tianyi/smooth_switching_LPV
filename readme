@@ -1,0 +1,3 @@
+Read me fisrt. 
+.m file is for the smooth switching controller design and obtain the controller variables. 
+.mat files give controller variables on two subregions to construct gain-scheduling controller, and used in time-domain simulation.
